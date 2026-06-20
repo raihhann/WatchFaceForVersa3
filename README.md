@@ -6,7 +6,9 @@ A sleek, highly readable, and deeply optimized digital watchface built for Fitbi
 
 ## 📱 Demo
 
-![Watchface Active Demo](./Img/demo.mp4)
+<video src="./Img/demo.mp4" controls width="100%" style="max-width: 400px;">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
