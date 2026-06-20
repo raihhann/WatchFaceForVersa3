@@ -1,0 +1,24 @@
+<svg class="background">
+  <rect width="100%" height="100%" fill="#000000" />
+  
+  <text id="txtHours" x="46%" y="58%" text-length="2"
+        font-family="System-Bold" font-size="124" 
+        fill="#FDFDFD" text-anchor="end" />
+        
+  <rect id="dividerLine" x="50%" y="16%" width="2" height="48%" fill="#777777" />
+  
+  <text id="txtMins" x="54%" y="40%" text-length="2"
+        font-family="System-Regular" font-size="84" 
+        fill="#888888" text-anchor="start" />
+        
+  <text id="txtDate" x="54%" y="58%" text-length="10"
+        font-family="System-Regular" font-size="30" 
+        fill="#666666" text-anchor="start" />
+        
+  <g id="activityGroup">
+    <image id="imgActivity" x="0" y="0" width="32" height="32" href="emojis/running-shoe.png" />
+    <text id="txtActivity" x="40" y="26" text-length="16"
+          font-family="System-Regular" font-size="30" 
+          fill="#FDFDFD" text-anchor="start" />
+  </g>
+</svg>
